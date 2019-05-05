@@ -1,7 +1,13 @@
 # perference_hz
 ##实验四_扩展的Activity
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190415203510180.png)
 
+
+
+![](https://github.com/Wjyyyyyy/Image/blob/master/4.1.png)
+![](https://github.com/Wjyyyyyy/Image/blob/master/4.2.png)
+![](https://github.com/Wjyyyyyy/Image/blob/master/4.3.png)
+![](https://github.com/Wjyyyyyy/Image/blob/master/4.4.png)
+![](https://github.com/Wjyyyyyy/Image/blob/master/4.5.png)
 
 
 关键代码：
@@ -115,29 +121,9 @@ public void onCreate(Bundle savedInstanceState){
 
 
 
-截图如下：
 
 
 
-
-
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190415203728125.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190415203741447.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190415203756987.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
-
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190415204240903.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
-
-
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190415203819660.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20190415203828254.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L1NhbW11cmFtYXQ=,size_16,color_FFFFFF,t_70)
 
 
 
